@@ -2,9 +2,7 @@
 - 👀 I’m interested in Full Stack Web Development, python, c, c++
 - 🌱 I’m currently learning Django/flask.
 - 💞️ I’m looking to collaborate on Node.js, MongoDB applications.
-- 📫 How to reach me
-
-Email : ojassanjivthakur@gmail.com
+- 📫 Email : ojassanjivthakur@gmail.com
 
 <!---
 ojas-thakur/ojas-thakur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
